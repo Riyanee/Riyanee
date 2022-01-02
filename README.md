@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Riyanee
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning lua, java, c++ and i know a lot of languages
-- 📫 Reach me in Discord : riyane#7779
+- 📫 Contact me in Discord : riyane#7779
