@@ -11,3 +11,5 @@
 <a href=https://discord.gg/G2Ff3et target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png alt="languages Node.js"  width="26" /></a>
 <a href=https://discord.gg/G2Ff3et target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png alt="languages MySQL"  width="26" /></a>
 <a href=https://discord.gg/G2Ff3et target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png alt="languages LUA"  width="26" /></a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riyanee)](https://github.com/anuraghazra/github-readme-stats)
