@@ -12,7 +12,7 @@
 <a href=https://discord.gg/G2Ff3et target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png alt="languages MySQL"  width="26" /></a>
 <a href=https://discord.gg/G2Ff3et target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png alt="languages LUA"  width="26" /></a>
 <a href=https://dart.dev/assets/shared/dart-logo-for-shares.png?2 targeti="blank"><img align="cienter"
-src=https://dart.dev/assets/shared/dart-logo-for-shares.png?2 alt="languages Dart"  width="26" /></a>
-                                                                                       i
+src=https://dart.dev/assets/shared/dart-logo-for-shares.png?2 alt="languages Dart"  width="28" /></a>
+                                                                                       
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riyanee&theme=dark&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
